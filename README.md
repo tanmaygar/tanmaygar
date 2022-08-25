@@ -1,4 +1,4 @@
-<h1 align="center">The name's Garg, Tanmay Garg</h1>
+<h1 align="center">Welcome to Tanmay Garg's GitHub Page</h1>
 <!---<h3 align="center">Computer Science Student at Indian Institute of Technology, Hyderabad</h3>--->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmaygar&label=Profile%20views&color=0e75b6&style=flat" alt="tanmaygar" /> </p> -->
