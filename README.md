@@ -23,11 +23,11 @@ Hello visitors 👋, My name is Tanmay Garg and I am an AI-ML enthusiast. I am a
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tanmaygar&repo=Nabla&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 <br>
-<a href="https://github.com/tanmaygar/Data-Science-Analysis">
+<a href="https://github.com/tanmaygar/tanmaygar.github.io">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tanmaygar&repo=Data-Science-Analysis&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 <br>
-<a href="https://github.com/tanmaygar/Fraud-Analytics">
+<a href="https://github.com/tanmaygar/Elek_project">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tanmaygar&repo=Fraud-Analytics&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
