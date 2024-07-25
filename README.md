@@ -1,9 +1,9 @@
 <h1 align="center">Welcome to Tanmay Garg's GitHub Page</h1>
-<!---<h3 align="center">Computer Science Student at Indian Institute of Technology, Hyderabad</h3>--->
+<!---<h3 align="center">MS in Machine Learning at Carnegie Mellon University</h3>--->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmaygar&label=Profile%20views&color=0e75b6&style=flat" alt="tanmaygar" /> </p> -->
 
-Hello visitors 👋, My name is Tanmay Garg and I am an AI-ML enthusiast. I am a BTech Computer Science and Engineering student at the Indian Institute of Technology, Hyderabad. 
+Hello visitors 👋, My name is Tanmay Garg and I am an AI-ML enthusiast. I am an MS in Machine Learning student at Carnegie Mellon University. 
 
 - 🌱 I’m currently learning **OpenCV, PyTorch, Tensorflow,**
 
